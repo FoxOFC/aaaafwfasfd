@@ -876,7 +876,7 @@ end
                 })
 
                 Tab2:AddToggle({
-                    Name = "Null Spam (All gloves) (Credits to lloyd#5746)",
+                    Name = "Null Spam (All gloves)",
                     Default = false,
                     Callback = function(Value)
 NullSpam = Value
@@ -1395,7 +1395,7 @@ fireclickdetector(game.Workspace.Arena.island5.Orange.ClickDetector)
                 })
 
 Tab3:AddToggle({
-                    Name = "Anti Admins (Credits to R2O)",
+                    Name = "Anti Admins",
                     Default = false,
                     Callback = function(bool)
 antiAdmins = bool
@@ -2166,7 +2166,7 @@ end
                 })
 
                 Tab2:AddToggle({
-                    Name = "Null Spam (All gloves) (Credits to lloyd#5746)",
+                    Name = "Null Spam (All gloves)",
                     Default = false,
                     Callback = function(Value)
 NullSpam = Value
@@ -3211,7 +3211,7 @@ fireclickdetector(game.Workspace.Arena.island5.Orange.ClickDetector)
                 })
 
 Tab3:AddToggle({
-                    Name = "Anti Admins (Credits to R2O)",
+                    Name = "Anti Admins",
                     Default = false,
                     Callback = function(bool)
 antiAdmins = bool
