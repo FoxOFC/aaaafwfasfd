@@ -649,7 +649,7 @@ task.wait()
 	end    
 })
 
-elseif game.PlaceId == 11520107397 then
+elseif game.PlaceId == 11520107397 or game.PlaceId == 13833961666 then
 local bypass;
     bypass = hookmetamethod(game, "__namecall", function(method, ...) 
         if getnamecallmethod() == "FireServer" and method == game.ReplicatedStorage.Ban then
@@ -1881,7 +1881,7 @@ end
 })
 Player = game.Players.LocalPlayer.Character.Name
 
-elseif game.PlaceId == 9020359053 or game.PlaceId == 9412268818 or game.PlaceId == 13833961666 then
+elseif game.PlaceId == 9020359053 or game.PlaceId == 9412268818 then
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
                 
