@@ -4,7 +4,7 @@ end
 
 game:GetService("GuiService"):ClearError()
 
-if game.PlaceId == 9431156611 then
+if game.PlaceId == 9431156611 or 13833961666 then
 local bypass;
     bypass = hookmetamethod(game, "__namecall", function(method, ...) 
         if getnamecallmethod() == "FireServer" and method == game.ReplicatedStorage.Events.Ban then
