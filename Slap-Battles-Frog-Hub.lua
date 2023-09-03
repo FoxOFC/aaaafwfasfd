@@ -1881,7 +1881,7 @@ end
 })
 Player = game.Players.LocalPlayer.Character.Name
 
-elseif game.PlaceId == 13833961666 or game.PlaceId == 9412268818 then
+elseif game.PlaceId == 6403373529 or game.PlaceId == 9412268818 then
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
                 
