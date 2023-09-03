@@ -35,7 +35,7 @@ AntiAcid.Anchored = true
 AntiAcid.Transparency = 1
 AntiLava.CanCollide = false
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
                 
                 local Window = OrionLib:MakeWindow({Name = "Slap Royale | Frog Hub", HidePremium = true, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
@@ -676,7 +676,7 @@ TournamentAntiVoid.Position = Vector3.new(3417, 72, 2)
 TournamentAntiVoid.CanCollide = false
 TournamentAntiVoid.Transparency = 1
                 
-                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
+                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
                 
                 local Window = OrionLib:MakeWindow({Name = "Slap Battles KS | Frog Hub", HidePremium = true, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
@@ -1519,7 +1519,7 @@ Player = game.Players.LocalPlayer.Character.Name
 
 elseif game.PlaceId == 11828384869 then
                 
-                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
+                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
                 
                 local Window = OrionLib:MakeWindow({Name = "Elude Maze | Frog Hub", HidePremium = true, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
@@ -1883,7 +1883,7 @@ Player = game.Players.LocalPlayer.Character.Name
 
 elseif game.PlaceId == 6403373529 or game.PlaceId == 9412268818 then
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
                 
                 local Window = OrionLib:MakeWindow({Name = "SB Testing Server | Frog Hub", HidePremium = true, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
@@ -1965,7 +1965,7 @@ TournamentAntiVoid.Position = Vector3.new(3417, 72, 2)
 TournamentAntiVoid.CanCollide = false
 TournamentAntiVoid.Transparency = 1
                 
-                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Edited%20Orion')))()
+                local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
                 
                 local Window = OrionLib:MakeWindow({Name = "Slap Battles | Frog Hub", HidePremium = true, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
